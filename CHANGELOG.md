@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.49.1](https://github.com/openai/openai-python/compare/v3.49.0...v3.49.1) (2026-11-10)
+
+
+### Chores
+
+* **deps:** bump astral-sh/setup-uv from 10.3.0 to 10.3.3 ([#4261](https://github.com/openai/openai-python/issues/4261)) ([0ebd006](https://github.com/openai/openai-python/commit/0ebd00647f6088fb100b03440c6c4554bbab549d))
+
+
+### Documentation
+
+* simplify review handoff instructions ([#4266](https://github.com/openai/openai-python/issues/4266)) ([141a89a](https://github.com/openai/openai-python/commit/141a89aa7fbb7f13a979bda930831a5fe38bc3a4))
+
 ## [3.49.0](https://github.com/openai/openai-python/compare/v3.48.0...v3.49.0) (2026-11-10)
 
 
